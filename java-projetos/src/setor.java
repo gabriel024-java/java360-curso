@@ -1,0 +1,6 @@
+/**
+ * setor
+ */
+public class setor {
+
+}
